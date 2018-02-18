@@ -10,4 +10,6 @@
     <string name="clear">Clear</string>
     <string name="showlog">Show log</string>
 
+    <string name="clearlog">Clear log</string>
+
 </resources>
