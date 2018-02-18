@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+
+    <string name="plussign">+</string>
+    <string name="minussign">−</string>
+    <string name="multisign">×</string>
+    <string name="divsign">÷</string>
+
+    <string name="calc">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="showlog">Show log</string>
+
+</resources>
